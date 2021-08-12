@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kcq218
 - 👀 I’m interested in C# . NET and Azure
-- 🌱 I’m currently learning clean architecture .NET 6 & the usual DSA
+- 🌱 I’m currently learning clean architecture .NET 6 & studying DS & A
 - 💞️ I’m looking to collaborate on Open Source .NET Projects
 - 📫 How to reach me https://www.linkedin.com/in/k-quach/
